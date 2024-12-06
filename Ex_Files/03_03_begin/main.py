@@ -22,4 +22,4 @@ with open("/workspaces/hands-on-python-3084712/Ex_Files/03_03_begin/laureates.cs
 
 
 with open("/workspaces/hands-on-python-3084712/Ex_Files/03_03_begin/laureates.json", "w") as f:
-    json.dump(laureates, f, indent=2)
+    json.dump(laureates, f, indent=2, ensure_ascii=False)
