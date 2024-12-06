@@ -28,7 +28,9 @@ with open("/workspaces/hands-on-python-3084712/Ex_Files/03_04/laureates.csv", "r
 
 laureates_beginning_with_a = []
 # LinkedIn learner code here
-
+for laureate in laureates:
+    if laureate["name"][0].upper() == "a".upper():
+        laureates_beginning_with_a.append(laureate)
 
 with open("/workspaces/hands-on-python-3084712/Ex_Files/03_04/laureates.json", "w") as f:
     json.dump(laureates_beginning_with_a, f, indent=2)
