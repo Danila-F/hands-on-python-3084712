@@ -16,10 +16,10 @@ back_to_dict = json.loads(einstein_json)
 print(einstein_json)
 pprint(back_to_dict)
 
-with open("laureates.csv", "r") as f:
+with open("/workspaces/hands-on-python-3084712/Ex_Files/03_03_begin/laureates.csv", "r") as f:
     reader = csv.DictReader(f)
     laureates = list(reader)
 
 
-with open("laureates.json", "w") as f:
-    json.dump(laureates, f, indent=2)
+with open("/workspaces/hands-on-python-3084712/Ex_Files/03_03_begin/laureates.json", "w") as f:
+    json.dump(laureates, f, indent=2, ensure_ascii=False)

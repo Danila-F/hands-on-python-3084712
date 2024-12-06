@@ -1,7 +1,7 @@
 [
   {
     "name": "Wilhelm Conrad",
-    "surname": "R\u00f6ntgen",
+    "surname": "Röntgen",
     "born": "1845-03-27",
     "died": "1923-02-10",
     "birthplace": "Prussia (now Germany)",
@@ -161,7 +161,7 @@
   },
   {
     "name": "Gustaf",
-    "surname": "Dal\u00e9n",
+    "surname": "Dalén",
     "born": "1869-11-30",
     "died": "1937-12-09",
     "birthplace": "Sweden",
@@ -381,7 +381,7 @@
   },
   {
     "name": "Erwin",
-    "surname": "Schr\u00f6dinger",
+    "surname": "Schrödinger",
     "born": "1887-08-12",
     "died": "1961-01-04",
     "birthplace": "Austria",
@@ -721,7 +721,7 @@
   },
   {
     "name": "Emilio",
-    "surname": "Segr\u00e8",
+    "surname": "Segrè",
     "born": "1905-02-01",
     "died": "1989-04-22",
     "birthplace": "Italy",
@@ -761,7 +761,7 @@
   },
   {
     "name": "Rudolf",
-    "surname": "M\u00f6ssbauer",
+    "surname": "Mössbauer",
     "born": "1929-01-31",
     "died": "2011-09-14",
     "birthplace": "Germany",
@@ -911,7 +911,7 @@
   },
   {
     "name": "Hannes",
-    "surname": "Alfv\u00e9n",
+    "surname": "Alfvén",
     "born": "1908-05-30",
     "died": "1995-04-02",
     "birthplace": "Sweden",
@@ -921,7 +921,7 @@
   },
   {
     "name": "Louis",
-    "surname": "N\u00e9el",
+    "surname": "Néel",
     "born": "1904-11-22",
     "died": "2000-11-17",
     "birthplace": "France",
@@ -1301,7 +1301,7 @@
   },
   {
     "name": "K. Alex",
-    "surname": "M\u00fcller",
+    "surname": "Müller",
     "born": "1927-04-20",
     "died": "0000-00-00",
     "birthplace": "Switzerland",
@@ -1551,7 +1551,7 @@
   },
   {
     "name": "Horst L.",
-    "surname": "St\u00f6rmer",
+    "surname": "Störmer",
     "born": "1949-04-06",
     "died": "0000-00-00",
     "birthplace": "West Germany (now Germany)",
@@ -1731,7 +1731,7 @@
   },
   {
     "name": "Richard",
-    "surname": "Willst\u00e4tter",
+    "surname": "Willstätter",
     "born": "1872-08-13",
     "died": "1942-08-03",
     "birthplace": "Germany",
@@ -1900,7 +1900,7 @@
     "year": "1934"
   },
   {
-    "name": "Fr\u00e9d\u00e9ric",
+    "name": "Frédéric",
     "surname": "Joliot",
     "born": "1900-03-19",
     "died": "1958-08-14",
@@ -1910,7 +1910,7 @@
     "year": "1935"
   },
   {
-    "name": "Ir\u00e8ne",
+    "name": "Irène",
     "surname": "Joliot-Curie",
     "born": "1897-09-12",
     "died": "1956-03-17",
@@ -2971,7 +2971,7 @@
   },
   {
     "name": "Santiago",
-    "surname": "Ram\u00f3n y Cajal",
+    "surname": "Ramón y Cajal",
     "born": "1852-05-01",
     "died": "1934-10-17",
     "birthplace": "Spain",
@@ -3061,7 +3061,7 @@
   },
   {
     "name": "Robert",
-    "surname": "B\u00e1r\u00e1ny",
+    "surname": "Bárány",
     "born": "1876-04-22",
     "died": "1936-04-08",
     "birthplace": "Austria",
@@ -3274,7 +3274,7 @@
     "surname": "Spemann",
     "born": "1869-06-27",
     "died": "1941-09-12",
-    "birthplace": "W\u00fcrttemberg (now Germany)",
+    "birthplace": "Württemberg (now Germany)",
     "motivation": "for his discovery of the organizer effect in embryonic development",
     "category": "medicine",
     "year": "1935"
@@ -3301,7 +3301,7 @@
   },
   {
     "name": "Albert",
-    "surname": "Szent-Gy\u00f6rgyi",
+    "surname": "Szent-Györgyi",
     "born": "1893-09-16",
     "died": "1986-10-22",
     "birthplace": "Austria-Hungary (now Hungary)",
@@ -3441,7 +3441,7 @@
   },
   {
     "name": "Paul",
-    "surname": "M\u00fcller",
+    "surname": "Müller",
     "born": "1899-01-12",
     "died": "1965-10-12",
     "birthplace": "Switzerland",
@@ -3580,7 +3580,7 @@
     "year": "1955"
   },
   {
-    "name": "Andr\u00e9 F.",
+    "name": "André F.",
     "surname": "Cournand",
     "born": "1895-09-24",
     "died": "1988-02-19",
@@ -3691,7 +3691,7 @@
   },
   {
     "name": "Georg",
-    "surname": "von B\u00e9k\u00e9sy",
+    "surname": "von Békésy",
     "born": "1899-06-03",
     "died": "1972-06-13",
     "birthplace": "Hungary",
@@ -3780,7 +3780,7 @@
     "year": "1964"
   },
   {
-    "name": "Fran\u00e7ois",
+    "name": "François",
     "surname": "Jacob",
     "born": "1920-06-17",
     "died": "2013-04-19",
@@ -3790,7 +3790,7 @@
     "year": "1965"
   },
   {
-    "name": "Andr\u00e9",
+    "name": "André",
     "surname": "Lwoff",
     "born": "1902-05-08",
     "died": "1994-09-30",
@@ -3891,7 +3891,7 @@
   },
   {
     "name": "Max",
-    "surname": "Delbr\u00fcck",
+    "surname": "Delbrück",
     "born": "1906-09-04",
     "died": "1981-03-09",
     "birthplace": "Germany",
@@ -4231,7 +4231,7 @@
   },
   {
     "name": "Sune K.",
-    "surname": "Bergstr\u00f6m",
+    "surname": "Bergström",
     "born": "1916-01-10",
     "died": "2004-08-15",
     "birthplace": "Sweden",
@@ -4281,7 +4281,7 @@
   },
   {
     "name": "Georges J.F.",
-    "surname": "K\u00f6hler",
+    "surname": "Köhler",
     "born": "1946-04-17",
     "died": "1995-03-01",
     "birthplace": "Germany",
@@ -4290,7 +4290,7 @@
     "year": "1984"
   },
   {
-    "name": "C\u00e9sar",
+    "name": "César",
     "surname": "Milstein",
     "born": "1927-10-08",
     "died": "2002-03-24",
@@ -4511,7 +4511,7 @@
   },
   {
     "name": "Christiane",
-    "surname": "N\u00fcsslein-Volhard",
+    "surname": "Nüsslein-Volhard",
     "born": "1942-10-20",
     "died": "0000-00-00",
     "birthplace": "Germany",
@@ -4590,7 +4590,7 @@
     "year": "1998"
   },
   {
-    "name": "G\u00fcnter",
+    "name": "Günter",
     "surname": "Blobel",
     "born": "1936-05-21",
     "died": "2018-02-18",
@@ -4610,7 +4610,7 @@
     "year": "1901"
   },
   {
-    "name": "Fr\u00e9d\u00e9ric",
+    "name": "Frédéric",
     "surname": "Passy",
     "born": "1822-05-20",
     "died": "1912-06-12",
@@ -4620,7 +4620,7 @@
     "year": "1901"
   },
   {
-    "name": "\u00c9lie",
+    "name": "Élie",
     "surname": "Ducommun",
     "born": "1833-02-19",
     "died": "1906-12-07",
@@ -4755,7 +4755,7 @@
     "born": "1838-04-28",
     "died": "1913-07-29",
     "birthplace": "the Netherlands",
-    "motivation": "for his role as co-founder of the Institut de droit international, initiator of the Conferences on International Private Law (Conf\u00e9rences de Droit international priv\u00e9) at the Hague, and pioneer in the field of international legal relations",
+    "motivation": "for his role as co-founder of the Institut de droit international, initiator of the Conferences on International Private Law (Conférences de Droit international privé) at the Hague, and pioneer in the field of international legal relations",
     "category": "peace",
     "year": "1911"
   },
@@ -4830,7 +4830,7 @@
     "year": "1919"
   },
   {
-    "name": "L\u00e9on",
+    "name": "Léon",
     "surname": "Bourgeois",
     "born": "1851-05-21",
     "died": "1925-09-29",
@@ -4941,7 +4941,7 @@
   },
   {
     "name": "Nathan",
-    "surname": "S\u00f6derblom",
+    "surname": "Söderblom",
     "born": "1866-01-15",
     "died": "1931-07-12",
     "birthplace": "Sweden",
@@ -5100,7 +5100,7 @@
     "year": "1950"
   },
   {
-    "name": "L\u00e9on",
+    "name": "Léon",
     "surname": "Jouhaux",
     "born": "1879-07-01",
     "died": "1954-04-28",
@@ -5191,7 +5191,7 @@
   },
   {
     "name": "Dag",
-    "surname": "Hammarskj\u00f6ld",
+    "surname": "Hammarskjöld",
     "born": "1905-07-29",
     "died": "1961-09-18",
     "birthplace": "Sweden",
@@ -5230,7 +5230,7 @@
     "year": "1965"
   },
   {
-    "name": "Ren\u00e9",
+    "name": "René",
     "surname": "Cassin",
     "born": "1887-10-05",
     "died": "1976-02-20",
@@ -5290,7 +5290,7 @@
     "year": "1973"
   },
   {
-    "name": "Se\u00e1n",
+    "name": "Seán",
     "surname": "MacBride",
     "born": "1904-01-26",
     "died": "1988-01-15",
@@ -5370,7 +5370,7 @@
     "year": "1978"
   },
   {
-    "name": "Anjez\u00eb Gonxhe",
+    "name": "Anjezë Gonxhe",
     "surname": "Bojaxhiu",
     "born": "1910-08-26",
     "died": "1997-09-05",
@@ -5381,7 +5381,7 @@
   },
   {
     "name": "Adolfo",
-    "surname": "P\u00e9rez Esquivel",
+    "surname": "Pérez Esquivel",
     "born": "1931-11-26",
     "died": "0000-00-00",
     "birthplace": "Argentina",
@@ -5401,7 +5401,7 @@
   },
   {
     "name": "Alfonso",
-    "surname": "Garc\u00eda Robles",
+    "surname": "García Robles",
     "born": "1911-03-20",
     "died": "1991-09-02",
     "birthplace": "Mexico",
@@ -5451,7 +5451,7 @@
   },
   {
     "name": "Oscar",
-    "surname": "Arias S\u00e1nchez",
+    "surname": "Arias Sánchez",
     "born": "1940-09-13",
     "died": "0000-00-00",
     "birthplace": "Costa Rica",
@@ -5501,7 +5501,7 @@
   },
   {
     "name": "Rigoberta",
-    "surname": "Mench\u00fa Tum",
+    "surname": "Menchú Tum",
     "born": "1959-01-09",
     "died": "0000-00-00",
     "birthplace": "Guatemala",
@@ -5590,7 +5590,7 @@
     "year": "1996"
   },
   {
-    "name": "Jos\u00e9",
+    "name": "José",
     "surname": "Ramos-Horta",
     "born": "1949-12-26",
     "died": "0000-00-00",
@@ -5670,8 +5670,8 @@
     "year": "1902"
   },
   {
-    "name": "Bj\u00f8rnstjerne",
-    "surname": "Bj\u00f8rnson",
+    "name": "Bjørnstjerne",
+    "surname": "Bjørnson",
     "born": "1832-12-08",
     "died": "1910-04-26",
     "birthplace": "Norway",
@@ -5680,7 +5680,7 @@
     "year": "1903"
   },
   {
-    "name": "Fr\u00e9d\u00e9ric",
+    "name": "Frédéric",
     "surname": "Mistral",
     "born": "1830-09-08",
     "died": "1914-03-25",
@@ -5690,7 +5690,7 @@
     "year": "1904"
   },
   {
-    "name": "Jos\u00e9",
+    "name": "José",
     "surname": "Echegaray",
     "born": "1832-04-19",
     "died": "1916-09-04",
@@ -5710,7 +5710,7 @@
     "year": "1905"
   },
   {
-    "name": "Giosu\u00e8",
+    "name": "Giosuè",
     "surname": "Carducci",
     "born": "1835-07-27",
     "died": "1907-02-16",
@@ -5741,7 +5741,7 @@
   },
   {
     "name": "Selma",
-    "surname": "Lagerl\u00f6f",
+    "surname": "Lagerlöf",
     "born": "1858-11-20",
     "died": "1940-03-16",
     "birthplace": "Sweden",
@@ -6021,7 +6021,7 @@
   },
   {
     "name": "Frans Eemil",
-    "surname": "Sillanp\u00e4\u00e4",
+    "surname": "Sillanpää",
     "born": "1888-09-16",
     "died": "1964-06-03",
     "birthplace": "Russian Empire (now Finland)",
@@ -6060,7 +6060,7 @@
     "year": "1946"
   },
   {
-    "name": "Andr\u00e9",
+    "name": "André",
     "surname": "Gide",
     "born": "1869-11-22",
     "died": "1951-02-19",
@@ -6100,7 +6100,7 @@
     "year": "1950"
   },
   {
-    "name": "P\u00e4r",
+    "name": "Pär",
     "surname": "Lagerkvist",
     "born": "1891-05-23",
     "died": "1974-07-11",
@@ -6110,7 +6110,7 @@
     "year": "1951"
   },
   {
-    "name": "Fran\u00e7ois",
+    "name": "François",
     "surname": "Mauriac",
     "born": "1885-10-11",
     "died": "1970-09-01",
@@ -6140,7 +6140,7 @@
     "year": "1954"
   },
   {
-    "name": "Halld\u00f3r",
+    "name": "Halldór",
     "surname": "Laxness",
     "born": "1902-04-23",
     "died": "1998-02-08",
@@ -6150,8 +6150,8 @@
     "year": "1955"
   },
   {
-    "name": "Juan Ram\u00f3n",
-    "surname": "Jim\u00e9nez",
+    "name": "Juan Ramón",
+    "surname": "Jiménez",
     "born": "1881-12-24",
     "died": "1958-05-29",
     "birthplace": "Spain",
@@ -6321,7 +6321,7 @@
   },
   {
     "name": "Heinrich",
-    "surname": "B\u00f6ll",
+    "surname": "Böll",
     "born": "1917-12-21",
     "died": "1985-07-16",
     "birthplace": "Germany",
@@ -6431,7 +6431,7 @@
   },
   {
     "name": "Gabriel",
-    "surname": "Garc\u00eda M\u00e1rquez",
+    "surname": "García Márquez",
     "born": "1927-03-06",
     "died": "2014-04-17",
     "birthplace": "Colombia",
@@ -6500,7 +6500,7 @@
     "year": "1988"
   },
   {
-    "name": "Camilo Jos\u00e9",
+    "name": "Camilo José",
     "surname": "Cela",
     "born": "1916-05-11",
     "died": "2002-01-17",
@@ -6590,7 +6590,7 @@
     "year": "1997"
   },
   {
-    "name": "Jos\u00e9",
+    "name": "José",
     "surname": "Saramago",
     "born": "1922-11-16",
     "died": "2010-06-18",
@@ -6600,7 +6600,7 @@
     "year": "1998"
   },
   {
-    "name": "G\u00fcnter",
+    "name": "Günter",
     "surname": "Grass",
     "born": "1927-10-16",
     "died": "2015-04-13",
@@ -7050,7 +7050,7 @@
     "year": "1999"
   },
   {
-    "name": "Il\u00b4ja M.",
+    "name": "Il´ja M.",
     "surname": "Frank",
     "born": "1908-10-23",
     "died": "1990-06-22",
@@ -7185,7 +7185,7 @@
     "born": "1940-01-04",
     "died": "0000-00-00",
     "birthplace": "China",
-    "motivation": "for an \u0153uvre of universal validity, bitter insights and linguistic ingenuity, which has opened new paths for the Chinese novel and drama",
+    "motivation": "for an œuvre of universal validity, bitter insights and linguistic ingenuity, which has opened new paths for the Chinese novel and drama",
     "category": "literature",
     "year": "2000"
   },
@@ -7421,7 +7421,7 @@
   },
   {
     "name": "Kurt",
-    "surname": "W\u00fcthrich",
+    "surname": "Wüthrich",
     "born": "1938-10-04",
     "died": "0000-00-00",
     "birthplace": "Switzerland",
@@ -7451,7 +7451,7 @@
   },
   {
     "name": "Imre",
-    "surname": "Kert\u00e9sz",
+    "surname": "Kertész",
     "born": "1929-11-09",
     "died": "2016-03-31",
     "birthplace": "Hungary",
@@ -7741,7 +7741,7 @@
   },
   {
     "name": "Theodor W.",
-    "surname": "H\u00e4nsch",
+    "surname": "Hänsch",
     "born": "1941-10-30",
     "died": "0000-00-00",
     "birthplace": "Germany",
@@ -7961,7 +7961,7 @@
   },
   {
     "name": "Peter",
-    "surname": "Gr\u00fcnberg",
+    "surname": "Grünberg",
     "born": "1939-05-18",
     "died": "2018-04-09",
     "birthplace": "Czechoslovakia (now Czech Republic)",
@@ -8050,8 +8050,8 @@
     "year": "2008"
   },
   {
-    "name": "Fran\u00e7oise",
-    "surname": "Barr\u00e9-Sinoussi",
+    "name": "Françoise",
+    "surname": "Barré-Sinoussi",
     "born": "1947-07-30",
     "died": "0000-00-00",
     "birthplace": "France",
@@ -8131,7 +8131,7 @@
   },
   {
     "name": "Jean-Marie Gustave",
-    "surname": "Le Cl\u00e9zio",
+    "surname": "Le Clézio",
     "born": "1940-04-13",
     "died": "0000-00-00",
     "birthplace": "France",
@@ -8251,7 +8251,7 @@
   },
   {
     "name": "Herta",
-    "surname": "M\u00fcller",
+    "surname": "Müller",
     "born": "1953-08-17",
     "died": "0000-00-00",
     "birthplace": "Romania",
@@ -8471,7 +8471,7 @@
   },
   {
     "name": "Tomas",
-    "surname": "Transtr\u00f6mer",
+    "surname": "Tranströmer",
     "born": "1931-04-15",
     "died": "2015-03-26",
     "birthplace": "Sweden",
@@ -8651,7 +8651,7 @@
   },
   {
     "name": "Thomas C.",
-    "surname": "S\u00fcdhof",
+    "surname": "Südhof",
     "born": "1955-12-22",
     "died": "0000-00-00",
     "birthplace": "Germany",
@@ -8660,7 +8660,7 @@
     "year": "2013"
   },
   {
-    "name": "Fran\u00e7ois",
+    "name": "François",
     "surname": "Englert",
     "born": "1932-11-06",
     "died": "0000-00-00",
@@ -8901,7 +8901,7 @@
   },
   {
     "name": "Satoshi",
-    "surname": "\u014cmura",
+    "surname": "Ōmura",
     "born": "1935-07-12",
     "died": "0000-00-00",
     "birthplace": "Japan",
@@ -9091,7 +9091,7 @@
   },
   {
     "name": "Bengt",
-    "surname": "Holmstr\u00f6m",
+    "surname": "Holmström",
     "born": "1949-04-18",
     "died": "0000-00-00",
     "birthplace": "Finland",
@@ -9260,7 +9260,7 @@
     "year": "2018"
   },
   {
-    "name": "G\u00e9rard",
+    "name": "Gérard",
     "surname": "Mourou",
     "born": "1944-06-22",
     "died": "0000-00-00",
@@ -9581,7 +9581,7 @@
   },
   {
     "name": "Louise",
-    "surname": "Gl\u00fcck",
+    "surname": "Glück",
     "born": "1943-04-22",
     "died": "0000-00-00",
     "birthplace": "USA",
@@ -9645,7 +9645,7 @@
     "born": "1931-09-21",
     "died": "0000-00-00",
     "birthplace": "Japan",
-    "motivation": "for the physical modelling of Earth\u2019s climate, quantifying variability and reliably predicting global warming",
+    "motivation": "for the physical modelling of Earth’s climate, quantifying variability and reliably predicting global warming",
     "category": "physics",
     "year": "2021"
   },
@@ -9655,7 +9655,7 @@
     "born": "1931-10-25",
     "died": "0000-00-00",
     "birthplace": "Germany",
-    "motivation": "for the physical modelling of Earth\u2019s climate, quantifying variability and reliably predicting global warming",
+    "motivation": "for the physical modelling of Earth’s climate, quantifying variability and reliably predicting global warming",
     "category": "physics",
     "year": "2021"
   },
